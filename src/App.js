@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Hocamiz : {counter}</h1>
+      <h1> Sevgi Seviyesi : {counter}</h1>
       <button name="increase" onClick={clickHandler}>
         Sevgi+
       </button>
