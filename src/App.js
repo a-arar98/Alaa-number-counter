@@ -21,12 +21,12 @@ export default function App() {
 
   return (
     <div>
-      <h1>Counter Bilgisi : {counter}</h1>
+      <h1>Hocamiz : {counter}</h1>
       <button name="increase" onClick={clickHandler}>
-        arttir
+        Sevgi+
       </button>
       <button name="decrease" onClick={clickHandler}>
-        azalt
+        No Sevgi-
       </button>
       <input
         type="number"
